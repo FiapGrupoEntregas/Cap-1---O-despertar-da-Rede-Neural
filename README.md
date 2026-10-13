@@ -23,15 +23,18 @@ Na Entrega 2, o YOLO customizado foi comparado com o **YOLO padrão** (pesos do 
 
 O passo a passo completo, os gráficos, as imagens de teste processadas e as conclusões estão no notebook [`src/JonattasFelipe_rm572692_pbl_fase6.ipynb`](./src/JonattasFelipe_rm572692_pbl_fase6.ipynb).
 
-🎥 **Vídeo de demonstração (YouTube, não listado):** COLE_O_LINK_AQUI
+🎥 **Vídeo de demonstração (YouTube, não listado):** [https://youtu.be/fHTtq75ch_g](https://youtu.be/fHTtq75ch_g)
+
+[![Vídeo de demonstração](https://i.ytimg.com/vi/fHTtq75ch_g/hqdefault.jpg)](https://youtu.be/fHTtq75ch_g)
 
 ### 🤖 Modelos de linguagem (IA generativa) utilizados
 
 | Modelo | Versão | Desenvolvedor | Uso no projeto |
 |---|---|---|---|
 | Claude Sonnet | 5.5 | Anthropic | Revisão do notebook e do README, sugestões de correção de código e apoio na redação das conclusões automáticas |
+| Claude Opus (Claude Code) | 5.5 | Anthropic | Migração do ambiente para uv, correção do download do dataset, pré-rotulação automática e documentação |
 
-*Se o grupo usou outras ferramentas de IA generativa, acrescente-as nesta tabela com nome e versão.* Todo o código foi executado e validado pelo grupo no Google Colab.
+Todo o código foi executado e validado pelo grupo no Google Colab.
 
 ### 🧠 Modelos de visão computacional
 
