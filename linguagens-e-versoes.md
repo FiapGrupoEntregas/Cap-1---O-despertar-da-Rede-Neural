@@ -37,11 +37,3 @@ Projeto: FarmTech Solutions – Fase 6 (Visão Computacional com YOLO)
 | Make Sense | serviço online ([makesense.ai](https://www.makesense.ai)) | Rotulação das caixas, exportadas em formato YOLO |
 | Open Images | V7 | Fonte das imagens |
 | Git / GitHub | ver ambiente do Colab | Versionamento e entrega |
-
-## 4. Modelos de linguagem (IA generativa)
-
-| Modelo | Versão | Desenvolvedor | Uso no projeto |
-|---|---|---|---|
-| Claude Sonnet | 5.5 | Anthropic | Revisão do notebook e do README, sugestões de correção de código e apoio na redação das conclusões automáticas |
-
-*Se o grupo usou outras ferramentas de IA generativa, acrescente aqui o nome e a versão de cada uma.*
