@@ -13,13 +13,6 @@
 - <a href="LINK_LINKEDIN_3">Pedro Henrique (RM571394)</a> 
 - <a href="LINK_LINKEDIN_4">Andrews Oliveira (RM572311)</a>
 
-## 👩‍🏫 Professores:
-### Tutor(a) 
-- <a href="LINK_LINKEDIN_TUTOR">Nome do Tutor</a>
-### Coordenador(a)
-- <a href="LINK_LINKEDIN_COORDENADOR">Nome do Coordenador</a>
-
-
 ## 📜 Descrição
 
 A FarmTech Solutions expandiu seus serviços de IA para além do agronegócio e passou a atuar com visão computacional. Este projeto demonstra, na prática e para um cliente fictício, como um sistema de visão computacional funciona e qual é a sua acurácia.
@@ -82,20 +75,3 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
    - **Fase 2 – Entrega 1:** treino do YOLOv5s com 30 e 60 épocas, validação (curvas e métricas) e teste (imagens processadas).
    - **Fase 3 – Entrega 2:** YOLO padrão, CNN do zero e comparação final.
 4. Os resultados do YOLO ficam em `yolov5/runs/` e são copiados para o seu Drive ao final.
-
-
-## 🗃 Histórico de lançamentos
-
-* 1.0.0 - XX/XX/2026
-    * Entrega final: conclusões, vídeo demonstrativo e documentação
-* 0.3.0 - XX/XX/2026
-    * Entrega 2: YOLO padrão, CNN do zero e comparação crítica
-* 0.2.0 - XX/XX/2026
-    * Entrega 1: treino do YOLOv5s com 30 e 60 épocas, validação e teste
-* 0.1.0 - XX/XX/2026
-    * Dataset de 80 imagens (Open Images V7) e rotulação no Make Sense
-
-## 📋 Licença
-
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/agodoi/template">MODELO GIT FIAP</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
-
